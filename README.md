@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img src="https://i.ibb.co/zsB1PdN/Screenshot-2.jpg" width="100%">
+  <img src="https://i.ibb.co/VWwzrVM/biscoito.jpg width="100%">
 </p>
 
 ## 🚀 Tecnologias
